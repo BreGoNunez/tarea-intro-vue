@@ -1,0 +1,24 @@
+{
+  "name": "tarea-intro-vue",
+  "version": "1.0.0",
+  "description": "Tarea 4? Intro a Vue, pequeño formulario y componentes Vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BreGoNunez/tarea-intro-vue.git"
+  },
+  "author": "Brenedin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BreGoNunez/tarea-intro-vue/issues"
+  },
+  "homepage": "https://github.com/BreGoNunez/tarea-intro-vue#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
